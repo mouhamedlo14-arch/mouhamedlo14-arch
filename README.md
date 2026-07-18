@@ -15,7 +15,7 @@
 Devenir Pentester Web spécialisé, avec pour ambition de travailler à l'international.
 
 📫 Me contacter :
-- LinkedIn : [ton lien ici]
+- LinkedIn : www.linkedin.com/in/mouhamed-lo-02722a37a
 - Profil HackTheBox : [ton lien ici]
 - Profil TryHackMe : [ton lien ici]
 
