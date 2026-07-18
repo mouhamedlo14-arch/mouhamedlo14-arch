@@ -1,24 +1,24 @@
-# 👋 Salut, je suis Mouhamed
+# 👋 Hi, I'm Mouhamed
 
-🎓 Étudiant en Cybersécurité | Spécialisation en cours : **Web Penetration Testing**
+🎓 Cybersecurity Student | Currently specializing in **Web Penetration Testing**
 
-🔭 Actuellement focus sur :
-- OWASP Top 10 & exploitation web (XSS, IDOR, SSRF, SQLi)
-- Labs pratiques sur HackTheBox & TryHackMe
-- Premiers pas en Bug Bounty (OpenBugBounty, Intigriti)
+🔭 Currently focused on:
+- OWASP Top 10 & web exploitation (XSS, IDOR, SSRF, SQLi)
+- Hands-on labs on HackTheBox & TryHackMe
+- Getting started with Bug Bounty (OpenBugBounty, Intigriti)
 
-🌱 En apprentissage :
+🌱 Currently learning:
 - Burp Suite (recon, interception, exploitation)
-- Préparation certification **eJPT**
+- Preparing for the **eJPT** certification
 
-🎯 Objectif :
-Devenir Pentester Web spécialisé, avec pour ambition de travailler à l'international.
+🎯 Goal:
+Becoming a specialized Web Pentester, with the ambition of working internationally.
 
-📫 Me contacter :
-- LinkedIn : www.linkedin.com/in/mouhamed-lo-02722a37a
-- Profil HackTheBox : [ton lien ici]
-- Profil TryHackMe : [ton lien ici]
+📫 Reach me:
+- LinkedIn: www.linkedin.com/in/mouhamed-lo-02722a37a
+- HackTheBox profile: [your link here]
+- TryHackMe profile: [your link here]
 
 ---
 
-⭐ Retrouvez mes write-ups de machines et CTF dans [pentest-writeups](lien-vers-le-repo)
+⭐ Check out my machine and CTF write-ups in [pentest-writeups](link-to-repo)
